@@ -10,7 +10,7 @@
 
 ### INFO
 ```
-Copyright (C) 14/7/2016 HuaYoyu
+Copyright (C) 13/7/2016 HuaYoyu
 This program is free mcpe server plugins:is for mcpe server,
 follow my twitter for more info:https://mobile.twitter.com/YoyuHua.
 ```
