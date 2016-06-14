@@ -3,11 +3,11 @@
 
 #  **Command List**
 ```
-*/gmhelp
-*/gms
-*/gmc
-*/gma
-*/gmsp
+*/gmhelp {to see list command in games}
+*/gms    {change to Survival mode}
+*/gmc    {change to Cretive mode}
+*/gma    {change to Adventure mode}
+*/gmsp   {change to Spectator mode}
 ```
 
 ### INFO
@@ -21,3 +21,7 @@ follow my twitter for more info:https://mobile.twitter.com/YoyuHua.
 
 #Download
 link: {No aktive now,is now INDEV now}
+
+#####Version
+mcpe: 0.14.3suppot
+plugins: ----
