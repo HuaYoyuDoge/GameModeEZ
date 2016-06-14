@@ -8,3 +8,28 @@ commands:
     gmhelp:
         usage: /gmhelp
         description: Shows plugin help
+    gms:
+        usage: /gms
+        description: Changes gamemode to Survival 
+    gmc:
+        usage: /gmc
+        description: Changes gamemode to Creative
+    gma:
+        usage: /gma
+        description: Changes gamemode to Adventure
+    gmsp:
+        usage: /gmsp
+        description: Changes gamemode to Spectator
+permissions:
+    gmhelp.gms:
+        default: op
+        description: Allows use of /gms
+    gmhelp.gmc:
+        default: op
+        description: Allows use of /gmc
+    gmhelp.gma:
+        default: op
+        description: Allows use of /gma
+    gmhelp.gmsp:
+        default: op
+        description: Allows use of /gmsp
