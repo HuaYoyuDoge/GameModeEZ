@@ -1,7 +1,7 @@
 # GamemodeEZ Plugins MCPE
 >GameModeEZ is ez way to change u gamemode,it just add a new command in u mcpe server!
 
-#  **Command List**
+##  **Command List**
 ```
 */gmhelp {to see list command in games}
 */gms    {change to Survival mode}
@@ -20,8 +20,10 @@ follow my twitter for more info:https://mobile.twitter.com/YoyuHua.
 @Skyladd for help :3
 
 #Download
-link: {No aktive now,is now INDEV now}
+link: {No Aktive yet,is now INDEV now}
 
-#####Version
-mcpe: 0.14.3suppot
-plugins: ----
+####Version
+```
+mcpe    > 0.14.3suppot
+plugins > ----
+```
