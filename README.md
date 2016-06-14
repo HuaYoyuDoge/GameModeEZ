@@ -8,3 +8,9 @@
   | 1 | /gmc |
   | 2 | /gms |
   | 3 | /gmsp |
+
+### License
+```
+Copyright (C) 2016 PEMapModder
+This program is free mcpe server plugins:is for mcpe server .
+```
