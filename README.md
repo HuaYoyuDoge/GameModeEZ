@@ -10,4 +10,3 @@ by: HuaYoyu
   | 1 | /gmc |
   | 2 | /gms |
   | 3 | /gmsp |
-  | 4 | /gm  {type gamemode} |
