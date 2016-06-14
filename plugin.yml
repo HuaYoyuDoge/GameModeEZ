@@ -1,0 +1,8 @@
+name: GameModeEZ
+main: GameModeEZ\Main
+author: HuaYoyu
+description: Ez ways to change u gamemode
+version: 0.1beta
+api: 2.0.0
+commands:
+/*no done yet
