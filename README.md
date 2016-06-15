@@ -1,8 +1,7 @@
 # <em>GameModeEZ</em>
 >GameModeEZ is ez way to change u gamemode,it just add a new command in u mcpe server!
 
-  **Command List**
-| Commands | Default |
+| Commands | change |
 | :---: | :---: |
 | /gmhelp | show GameModeEZ command list |
 | /gms | change to Survival mode |
