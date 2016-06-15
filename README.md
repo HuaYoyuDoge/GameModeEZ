@@ -3,7 +3,7 @@
 
 ##  **Command List**
 ```
-*/gmhelp {to see list command in games}
+*/gmhelp {show GameModeEZ command}
 */gms    {change to Survival mode}
 */gmc    {change to Cretive mode}
 */gma    {change to Adventure mode}
@@ -12,23 +12,25 @@
 
 ### INFO
 ```
-Copyright (C) 13/7/2016
-This program is create by: HuaYoyu,it make Mcpe server with ez way to change u gamemode:full of php7 suppot!
-.
+Copyright © 13/7/2016
+This program is create by: HuaYoyu,it make Mcpe server with ez way to change u gamemode
+>full of php7 suppot!
 ```
 ### Thanks
 @Skyladd for help :3
 
 ## Follow Me :3
 ### [Twitter @YoyuHua](https://twitter.com/YoyuHua)
+### [Google+ YOYU HUA](https://plus.google.com/112806261931025159399)
 
-#Download
+##Download
 link: {No Aktive yet,is now INDEV now}
 
-####Version
+####Plugins Info
 ```
 mcpe    > 0.14.3suppot
-plugins > ----
-API     > 2.0.0
-php     > 7.0
+API     > {Error No Founds}no comfrim yet!
+php     > 7.0 & 5.6
 ```
+
+//Any Issuse(Bugs),Pls rebord to we and thx suppot for this plugins
