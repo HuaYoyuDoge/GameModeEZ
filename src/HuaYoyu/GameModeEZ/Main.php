@@ -63,10 +63,10 @@ class Main extends PluginBase implements Listener{
 		$count = count($args);
 		switch ($cmd){
 
-			case "boxofbits":
+			case "gmhelp":
 				$player = $this->getServer()->getPlayer($sender->getName());
-						$sender->sendMessage(Colour::BLACK. "---[".Colour::DARK_PURPLE."BoxOfBits v0.0.1 Help".Colour::BLACK."]---");
-						$sender->sendMessage(Colour::BLACK. "- " .Colour::WHITE."/boxofbits".Colour::GREEN." Shows plugin help");
+						$sender->sendMessage(Colour::BLACK. "---[".Colour::DARK_PURPLE."GameModeEZ INDEV Help".Colour::BLACK."]---");
+						$sender->sendMessage(Colour::BLACK. "- " .Colour::WHITE."/gmhelp".Colour::GREEN." Shows plugin help");
 						$sender->sendMessage(Colour::BLACK. "- " .Colour::WHITE."/gms".Colour::GREEN." Changes gamemode to Survival");
 						$sender->sendMessage(Colour::BLACK. "- " .Colour::WHITE."/gmc".Colour::GREEN." Changes gamemode to Creative");
 						$sender->sendMessage(Colour::BLACK. "- " .Colour::WHITE."/gma".Colour::GREEN." Changes gamemode to Adventure");
