@@ -1,6 +1,7 @@
 name: GameModeEZ
 main: GameModeEZ\Main
 author: HuaYoyu
+website: "https://github.com/HuaYoyuDoge/GameModeEZ"
 description: Ez ways to change u gamemode
 version: INDEV
 api: 2.0.0
