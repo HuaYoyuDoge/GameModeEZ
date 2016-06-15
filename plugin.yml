@@ -4,7 +4,7 @@ author: HuaYoyu
 website: "https://github.com/HuaYoyuDoge/GameModeEZ"
 description: Ez ways to change u gamemode
 version: INDEV
-api: 2.0.0
+api: 1.14.0
 commands:
     gmhelp:
         usage: /gmhelp
