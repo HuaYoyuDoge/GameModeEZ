@@ -10,12 +10,14 @@
 */gmsp   {change to Spectator mode}
 ```
 
-### INFO
-```
-Copyright © 13/7/2016
-This program is create by: HuaYoyu,it make Mcpe server with ez way to change u gamemode
->full of php7 suppot!
-```
+GameModeEZ plugin for MCPE server
+     Copyright © 2016 HuaYoyu <https://github.com/HuaYoyuDoge/GameModeEZ>
+
+     This program is free software: you allow recode it,
+     Hope that it will be useful for u server
+     Enjoy and Have FUN!!
+     This plugins is starter from 13Jun2016
+
 ### Thanks
 @Skyladd for help :3
 
