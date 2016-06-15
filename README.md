@@ -1,4 +1,4 @@
-# <em>GamemodeEZ</em>
+# <em>GameModeEZ</em>
 >GameModeEZ is ez way to change u gamemode,it just add a new command in u mcpe server!
 
 ##  **Command List**
@@ -24,7 +24,7 @@ This program is create by: HuaYoyu,it make Mcpe server with ez way to change u g
 ### [Google+ YOYU HUA](https://plus.google.com/112806261931025159399)
 
 ##Download
-link: {No Aktive yet,is now INDEV now}
+link: {No YET,is INDEV now}
 
 ####Plugins Info
 ```
@@ -32,5 +32,3 @@ mcpe    > 0.14.3suppot
 API     > {Error No Founds}no comfrim yet!
 php     > 7.0 & 5.6
 ```
-
-//Any Issuse(Bugs),Pls rebord to we and thx suppot for this plugins
