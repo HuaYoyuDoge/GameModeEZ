@@ -1,22 +1,22 @@
 # <em>GameModeEZ</em>
 >GameModeEZ is ez way to change u gamemode,it just add a new command in u mcpe server!
 
-##  **Command List**
-```
-*/gmhelp {show GameModeEZ command}
-*/gms    {change to Survival mode}
-*/gmc    {change to Cretive mode}
-*/gma    {change to Adventure mode}
-*/gmsp   {change to Spectator mode}
-```
+  **Command List**
+| Commands | Default |
+| :---: | :---: |
+| /gmhelp | show GameModeEZ command list |
+| /gms | change to Survival mode |
+| /gmc | change to Creative mode |
+| /gma | change to Adventure mode |
+| /gmsp | change to Spectator mode |
 
 GameModeEZ plugin for MCPE server
      Copyright © 2016 HuaYoyu <https://github.com/HuaYoyuDoge/GameModeEZ>
 
      This program is free software: you allow recode it,
-     Hope that it will be useful for u server
+     Hope that it will be useful for u server,
      Enjoy and Have FUN!!
-     This plugins is starter from 13Jun2016
+     This plugins is starter from 13Jun2016.
 
 ### Thanks
 @Skyladd for help :3
