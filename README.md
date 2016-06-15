@@ -9,6 +9,7 @@
 | /gma | change to Adventure mode |
 | /gmsp | change to Spectator mode |
 
+```
 GameModeEZ plugin for MCPE server
      Copyright © 2016 HuaYoyu <https://github.com/HuaYoyuDoge/GameModeEZ>
 
@@ -16,6 +17,7 @@ GameModeEZ plugin for MCPE server
      Hope that it will be useful for u server,
      Enjoy and Have FUN!!
      This plugins is starter from 13Jun2016.
+```
 
 ### Thanks
 @Skyladd for help :3
