@@ -22,15 +22,15 @@ commands:
         usage: /gmsp
         description: Changes gamemode to Spectator
 permissions:
-    gmhelp.gms:
+    gamemodeez.gms:
         default: op
         description: Allows use of /gms
-    gmhelp.gmc:
+    gamemodeez.gmc:
         default: op
         description: Allows use of /gmc
-    gmhelp.gma:
+    gamemodeez.gma:
         default: op
         description: Allows use of /gma
-    gmhelp.gmsp:
+    gamemodeez.gmsp:
         default: op
         description: Allows use of /gmsp
