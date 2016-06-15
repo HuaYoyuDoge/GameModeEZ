@@ -1,4 +1,4 @@
-# GamemodeEZ Plugins MCPE
+# <em>GamemodeEZ</em>
 >GameModeEZ is ez way to change u gamemode,it just add a new command in u mcpe server!
 
 ##  **Command List**
