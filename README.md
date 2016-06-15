@@ -12,12 +12,15 @@
 
 ### INFO
 ```
-Copyright (C) 13/7/2016 HuaYoyu
-This program is free mcpe server plugins:is for mcpe server,
-follow my twitter for more info:https://mobile.twitter.com/YoyuHua.
+Copyright (C) 13/7/2016
+This program is create by: HuaYoyu,it make Mcpe server with ez way to change u gamemode:full of php7 suppot!
+.
 ```
 ### Thanks
 @Skyladd for help :3
+
+## Follow Me :3
+### [Twitter @YoyuHua](https://twitter.com/YoyuHua)
 
 #Download
 link: {No Aktive yet,is now INDEV now}
@@ -26,4 +29,6 @@ link: {No Aktive yet,is now INDEV now}
 ```
 mcpe    > 0.14.3suppot
 plugins > ----
+API     > 2.0.0
+php     > 7.0
 ```
